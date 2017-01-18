@@ -1,0 +1,7 @@
+
+body{font-family: 'Roboto Condensed', sans-serif;}
+h1, h2 {font-family: 'Libre Baskerville', serif;color: #fff;text-shadow:2px 2px rgba(0,0,0,0.5);}
+.home-bg{background-image: url(images/seasonal-drinks.jpg);background-size: cover;}
+.price-copy{font-family: 'Libre Baskerville', serif;font-size: 36px;text-align: center;}
+.drink-product{margin:25px 0 0 0}
+button {float: right;}
